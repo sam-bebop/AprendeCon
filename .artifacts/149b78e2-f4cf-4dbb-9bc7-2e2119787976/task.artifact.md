@@ -1,0 +1,7 @@
+- [x] Phase 1: ViewModel & Filtering Logic
+  - [x] Update ViewModel to provide tutor sessions and cuatrimestre filtering
+- [x] Phase 2: UI Enhancements
+  - [x] Add "Como Alumno" / "Asesorías como Tutor" tabs in `MySessionsScreen`
+  - [x] Add Cuatrimestre filter chips in `SearchScreen`
+- [x] Phase 3: Build Verification
+  - [x] Run `app:assembleDebug` and verify successful compilation

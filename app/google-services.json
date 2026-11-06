@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020849414491",
+    "project_id": "com-example-aprendecon-8b856",
+    "storage_bucket": "com-example-aprendecon-8b856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020849414491:android:27438698ae22d8d3407a7e",
+        "android_client_info": {
+          "package_name": "com.example.aprendecon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgn0WrN526vuv7vqA5RQ7hUVeO8ckX8Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
